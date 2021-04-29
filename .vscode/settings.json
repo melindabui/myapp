@@ -1,7 +1,8 @@
 {
-  "liveServer.settings.port": 5501,
+  "liveServer.settings.port": 5502,
   "prettier.jsxBracketSameLine": true,
   "prettier.useTabs": true,
   "prettier.withNodeModules": true,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "files.autoSave": "onWindowChange"
 }
