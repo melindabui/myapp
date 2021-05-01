@@ -10107,7 +10107,16 @@ hr.light {
 
 .btn-xl {
     padding: 1.25rem 2.25rem;
-    font-size: 1.55rem;
+    font-size: 2.05rem;
+    font-weight: 1000;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 12rem;
+}
+
+.btn-x {
+    padding: 1.25rem 2.25rem;
+    font-size: 0.95rem;
     font-weight: 1000;
     text-transform: uppercase;
     border: none;
